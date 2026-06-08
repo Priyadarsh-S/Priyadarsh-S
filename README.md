@@ -1,5 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
+## My GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Priyadarsh-S&theme=radical)](https://git.io/streak-stats)
 <!--
 **Priyadarsh-S/Priyadarsh-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
